@@ -7,6 +7,13 @@ On my command line:
 	git init
 	touch repo_prac.html steps.txt
 I typed some content into both files
-	
+	git add .
+	git commit -m "Added repo_prac and steps"
+	git remote add origin https://github.com/mickajohnson/basic_repo.git
+	git push -u origin master
+I went to github, to see if everything worked (it did)
+I changed the text in steps.txt
+
+
 
 	
