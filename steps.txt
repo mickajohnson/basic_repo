@@ -1,0 +1,12 @@
+I went to github.com and logged in.
+I clicked New Repository, named it basic_repo, and clicked create repository
+On my command line:
+	cd desktop
+	mkdir basic_repo
+	cd basic_repo
+	git init
+	touch repo_prac.html steps.txt
+I typed some content into both files
+	
+
+	
